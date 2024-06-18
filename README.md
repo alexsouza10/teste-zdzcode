@@ -4,7 +4,7 @@ Este projeto é um teste técnico, desenvolvido com um back-end em .NET Core e u
 
 ## Fluxograma do Projeto
 
-<img src="vehicle-maintenance-front/public/fluxograma.png" alt="Guia" style="width: 400px; height: auto;">
+<img src="zdzcodefront/public/fluxograma.png" alt="Guia" style="width: 400px; height: auto;">
 
 ## Front-end
 
@@ -86,12 +86,16 @@ Sinta-se à vontade para contribuir com este projeto. Basta seguir estas etapas:
 
 <table>
   <tr>
-    <td><img src="vehicle-maintenance-front/public/welcome.png" alt="Bem-vindo" style="width: 400px; height: auto;"></td>
-    <td><img src="vehicle-maintenance-front/public/RegisterError.png" alt="Register-Error" style="width: 400px; height: auto;"></td>
+    <td><img src="zdzcodefront/public/swagger.png" alt="Bem-vindo" style="width: 400px; height: auto;"></td>
+    <td><img src="zdzcodefront/public/veiculos.png" alt="Register-Error" style="width: 400px; height: auto;"></td>
   </tr>
   <tr>
-    <td><img src="vehicle-maintenance-front/public/RegisterSave.png" alt="Register-Save" style="width: 400px; height: auto;"></td>
-    <td><img src="vehicle-maintenance-front/public/APIbackend.png" alt="API" style="width: 400px; height: auto;"></td>
+    <td><img src="zdzcodefront/public/validacao-veiculo.png" alt="Register-Save" style="width: 400px; height: auto;"></td>
+    <td><img src="zdzcodefront/public/veiculo-salvo.png" alt="API" style="width: 400px; height: auto;"></td>
+  </tr>
+  <tr>
+    <td><img src="zdzcodefront/public/tipo-de-servico.png" alt="Register-Save" style="width: 400px; height: auto;"></td>
+    <td><img src="zdzcodefront/public/registro-manutencao.png" alt="API" style="width: 400px; height: auto;"></td>
   </tr>
 </table>
 
