@@ -86,7 +86,7 @@ Sinta-se à vontade para contribuir com este projeto. Basta seguir estas etapas:
 
 <table>
   <tr>
-    <td><img src="zdzcodefront/public/swagger.png" alt="Bem-vindo" style="width: 400px; height: auto;"></td>
+    <td><img src="zdzcodefront/public/Swagger.png" alt="Bem-vindo" style="width: 400px; height: auto;"></td>
     <td><img src="zdzcodefront/public/veiculos.png" alt="Register-Error" style="width: 400px; height: auto;"></td>
   </tr>
   <tr>
